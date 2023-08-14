@@ -1,6 +1,6 @@
 ### 👋
 
-me encuentro en la busqueda activa de un empleo que me permita enfrentar nuevos desafios, crecer profesionalmente y aportar mi criterio y buen desempeño en la creacion de sitios web
+Me encuentro en la busqueda activa de un empleo que me permita enfrentar nuevos desafios, crecer profesionalmente y aportar mi criterio y buen desempeño en la creacion de sitios web
 
 **addamfranco/addamfranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
